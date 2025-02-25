@@ -14,6 +14,14 @@ The client wants to start a food delivery project, and I’m trying to extract s
  * Dashboard [Restaurants, System]
  * Offers
 # Cart Management
+  ### API endpoints
+  - Add to cart
+  - Modify cart
+  - View cart
+  - Clear all cart
+  - Remove the item from the cart
+  - Checkout 
+  - Update Quantities
   ### Entity Relationships
   ![image](https://github.com/user-attachments/assets/12289397-d279-4969-b36f-f17cf867c24c)
   ![image](https://github.com/user-attachments/assets/3d3e0e75-d8c4-4d5e-aa98-9e19a3edddd9)
